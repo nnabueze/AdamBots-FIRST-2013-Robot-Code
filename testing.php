@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-class testing {
+class Testing {
     
     protected $name;
     public $age;
